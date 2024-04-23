@@ -1,0 +1,10 @@
+<project version="4">
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="FrameworkDetectionExcludesConfiguration">
+    <file type="web" url="file://$PROJECT_DIR$/Doctor" />
+    <file type="web" url="file://$PROJECT_DIR$/Hospital" />
+    <file type="web" url="file://$PROJECT_DIR$/Nurse" />
+    <file type="web" url="file://$PROJECT_DIR$/Patient" />
+  </component>
+  <component name="ProjectRootManager" version="2" project-jdk-name="17 (16)" project-jdk-type="JavaSDK" />
+</project>
